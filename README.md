@@ -1,5 +1,7 @@
 # Happy New Year
 
+URL: https://dikrey.github.io/Happy-New-Year/
+
 Selamat datang di **Tahun Baru 2025**! 🎉 Website ini dirancang untuk menyambut tahun baru dengan semangat dan harapan baru. Di sini, Anda akan menemukan berbagai elemen desain yang dinamis dan interaktif, mulai dari animasi keren yang menyambut tahun baru hingga pesan motivasi bagi para programmer.
 
 Website ini tidak hanya merayakan **Tahun Baru 2025**, tetapi juga memberikan inspirasi untuk terus berkembang, belajar, dan berinovasi, terutama di dunia **pemrograman**. Dengan animasi text yang menarik, efek **neon** yang memukau, serta tombol-tombol untuk **TikTok**, **Instagram**, dan **GitHub**, website ini bertujuan untuk menciptakan suasana yang penuh energi positif.
